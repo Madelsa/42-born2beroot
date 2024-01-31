@@ -6,9 +6,6 @@
 - [VM Setup](#vm-setup)
 - [Task List](#task-list)
 - [Bonus](#bonus)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
