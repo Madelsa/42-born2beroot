@@ -34,12 +34,3 @@ The project involves completing various tasks related to system administration, 
 ## Bonus
 
 The Born2BeRoot project may include bonus tasks that go beyond the basic requirements. Bonus tasks often involve additional security measures, system optimizations, or customization of the virtual machine environment.
-
-## How to Use
-
-To use Born2BeRoot, follow these steps:
-
-1. Clone the Born2BeRoot repository:
-
-   ```bash
-   git clone https://github.com/your-username/Born2BeRoot.git
