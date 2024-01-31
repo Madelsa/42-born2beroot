@@ -1,17 +1,45 @@
-# 42-born2beroot
+# Born2BeRoot
 
+## Table of Contents
 
-The main concept of this project is to learn how to set up and work with a server and connect a client (Main PC) to the server (Virtual machine).
+- [Description](#description)
+- [VM Setup](#vm-setup)
+- [Task List](#task-list)
+- [Bonus](#bonus)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
 
-In this project, I have learned about the following:
+## Description
 
-1) Logical Volume Manager partitioning and its applications.
-2) What SSH is and how to use it to connect the client to the server.
-3) The installation of UFW and creating rules to allow interaction with ports.
-4) What "sudo" is and its applications, in addition to many other useful commands.
-5) How to modify the password policy for newly created users and the root user.
-6) How crontab works and used it to run a script across all terminals, including client windows.
+The Born2BeRoot project aims to provide hands-on experience with system administration tasks and the setup of a secure virtual machine environment. Students learn essential skills related to server management, user access control, network configuration, and security practices.
 
-For more details about the project, please visit the link below:
+## VM Setup
 
+The project requires the setup of a virtual machine using a hypervisor like VirtualBox or VMware. The virtual machine should be configured with specific settings and run a Linux distribution specified in the project guidelines. For more information about setting up the virtual environment and the project, please visite the following link:
 https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
+
+## Task List
+
+The project involves completing various tasks related to system administration, security, and configuration. Some of the tasks include:
+
+- Creating and managing user accounts
+- Configuring network interfaces
+- Implementing firewall rules
+- Setting up SSH access
+- Managing file permissions
+- Configuring system logging
+- Implementing security practices
+
+## Bonus
+
+The Born2BeRoot project may include bonus tasks that go beyond the basic requirements. Bonus tasks often involve additional security measures, system optimizations, or customization of the virtual machine environment.
+
+## How to Use
+
+To use Born2BeRoot, follow these steps:
+
+1. Clone the Born2BeRoot repository:
+
+   ```bash
+   git clone https://github.com/your-username/Born2BeRoot.git
